@@ -4,7 +4,7 @@ Enables ±10s skipping on YouTube using hardware media keys (Forward/Back) on Wi
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>YouTube Media Key Fix</title>
+    
 </head>
 <body>
 
@@ -18,7 +18,7 @@ When single video is played (without playlist), buttons don't have function.
 <h4>Lenovo IdeaPad 5 Pro (16ACH6) keyboard layout</h4>
 
 <p>
-https://m.media-amazon.com/images/I/91mffIOdsVS.jpg
+![[Pasted image 20260220092642.png]]
 </p>
 
 <p>
